@@ -1,0 +1,12 @@
+F:\Visual Studio Stuff\CardGameTrac\CardGame\Classes\bin\Release\Classes.dll
+F:\Visual Studio Stuff\CardGameTrac\CardGame\Classes\bin\Release\Classes.pdb
+F:\Visual Studio Stuff\CardGameTrac\CardGame\Classes\obj\Release\Classes.csprojAssemblyReference.cache
+F:\Visual Studio Stuff\CardGameTrac\CardGame\Classes\obj\Release\Classes.csproj.CoreCompileInputs.cache
+F:\Visual Studio Stuff\CardGameTrac\CardGame\Classes\obj\Release\Classes.dll
+F:\Visual Studio Stuff\CardGameTrac\CardGame\Classes\obj\Release\Classes.pdb
+F:\Visual Studio Stuff\CardGame\Classes\bin\Release\Classes.dll
+F:\Visual Studio Stuff\CardGame\Classes\bin\Release\Classes.pdb
+F:\Visual Studio Stuff\CardGame\Classes\obj\Release\Classes.csprojAssemblyReference.cache
+F:\Visual Studio Stuff\CardGame\Classes\obj\Release\Classes.csproj.CoreCompileInputs.cache
+F:\Visual Studio Stuff\CardGame\Classes\obj\Release\Classes.dll
+F:\Visual Studio Stuff\CardGame\Classes\obj\Release\Classes.pdb

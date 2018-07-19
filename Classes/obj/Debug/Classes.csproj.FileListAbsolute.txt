@@ -1,0 +1,6 @@
+F:\Visual Studio Stuff\CardGameTrac\CardGame\Classes\bin\Debug\Classes.dll
+F:\Visual Studio Stuff\CardGameTrac\CardGame\Classes\bin\Debug\Classes.pdb
+F:\Visual Studio Stuff\CardGameTrac\CardGame\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+F:\Visual Studio Stuff\CardGameTrac\CardGame\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+F:\Visual Studio Stuff\CardGameTrac\CardGame\Classes\obj\Debug\Classes.dll
+F:\Visual Studio Stuff\CardGameTrac\CardGame\Classes\obj\Debug\Classes.pdb
